@@ -1,0 +1,18 @@
+body{
+    background-color: #a9dde6bb;
+    color: rgb(66, 66, 66);
+    height:50px;
+    font-family: sans-serif;
+}
+.bg-primary {
+    background-color: #2bbdd7 !important;
+}
+.btn-primary {
+    background-color: #2bbdd7 !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #69cadb;
+    border-color: #69cadb;
+  }
